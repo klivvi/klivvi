@@ -2,17 +2,22 @@
 
 **Long story short, I am**:  
   😇 | Viktoriia  
-  ❤️‍🔥|Full-time High School & Computer Academy student  
-  😈|*Master at*: C++, C#, C Sharp .NET Framework   
-  👽|     *In progress to mastery*: Qt, HTML + CSS + JavaScript, Python   
-  😻|       *I also know*: SQL, QML, Design Patterns (GoF)   
-  💪|  Currently working as an English Tutor (saving for grown-up life👀 omg)  
-  🧠|  Love to learn new (and eat tasty food)  
-  💫|  Native Russian, C1 English, 3급 Korean  
-  💟|  Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `Other`  
-  ✨ |  Future CEO (for sure)  
-  
-###
+  ❤️‍🔥 | Full-time High School & Computer Academy student  
+  😈 | ***Mastering***: C++, C#, C Sharp .NET Framework   
+  👽 | ***In progress to mastery***: Qt, HTML + CSS + JavaScript, Python   
+  😻 | ***Moreover***: SQL, QML, Design Patterns (GoF)  
+  🧠 | Love to learn new (and eat tasty food)  
+  💫 | Native Russian, C1 English, 3급 Korean  💪👀
+  💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...` 
+  ✨ | Future CEO (for sure) 
+
+### Here long story in short form ends :0
+
+**Right now, I am**:
+0. Acing at schools
+1. Exploring GitHub
+2. Working as an English Teacher
+3. 
 February's plan:
 - [x] Design the profile README {02.02.26}
 - [ ] Upload 'The Personal Website' repository
