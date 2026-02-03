@@ -4,7 +4,7 @@
   ❤️‍🔥 | Full-time <ins>High School & Computer Academy</ins> student<br/>
   😈 | ***Mastering***: C++, C#, C Sharp .NET Framework<br/>
   👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python<br/>
-  😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Aurdino)<br/>
+  😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Arduino)<br/>
   🧠 | Love to learn new (and eat tasty food)<br/>
   💫 | Native Russian, C1 English, 3급 Korean<br/>
   💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`<br/>
