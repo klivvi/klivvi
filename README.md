@@ -1,9 +1,9 @@
-# Good morning, good afternoon and good evening 😼
+# <span style ="color: #C670FF;">Good morning, good afternoon and good evening 😼 </span>
 ### **Long story short, I am**:  
   😇 | Viktoriia  
   ❤️‍🔥 | Full-time High School & Computer Academy student  
   😈 | ***Mastering***: C++, C#, C Sharp .NET Framework   
-  👽 | ***learning***: Qt, HTML + CSS + JavaScript, Python   
+  👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python   
   😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Aurdino)  
   🧠 | Love to learn new (and eat tasty food)
   💫 | Native Russian, C1 English, 3급 Korean  
