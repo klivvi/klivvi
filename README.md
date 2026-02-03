@@ -26,11 +26,13 @@
 - [ ] Upload my exam's C# .NET Framework projects: 0/2
 - [ ] Upload my Qt projects: 0/1
 
+### **A little joke**:
 ```
 debugging:
 [de-buhg-ging] - verb.
 1. being the detective in a crime movie where you are also the murderer.
 ```
+(just bc i love it)
 
 ### **My revelant work experience**:
 1) 23/24 Summer's internships in IT-department at manufacturer:
