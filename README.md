@@ -10,8 +10,8 @@
   💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`   
   ✨ | Future successful CEO :0 
 
-### **Right now, I am**:  
-0. Acing at schools
+### **Right now, I am busy with**:  
+0. Acing all classes
 1. Exploring GitHub
 2. Working as an English Teacher (saving for grown-up life...👀)
 3. Building projects
