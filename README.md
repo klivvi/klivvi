@@ -11,7 +11,7 @@
   ✨ | Future successful CEO :0<br/>
 
 ![In love with work](patrick-star-love-you.gif)
-<img src="hpatrick-star-love-you.gif" width="50" />
+<img src="hpatrick-star-love-you.gif" width="50%"/>
 
 ### **Right now, I am busy with**:  
 0. Acing all classes<br/>
