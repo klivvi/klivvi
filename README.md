@@ -5,7 +5,7 @@
   😈 | ***Mastering***: C++, C#, C Sharp .NET Framework   
   👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python   
   😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Aurdino)  
-  🧠 | Love to learn new (and eat tasty food)
+  🧠 | Love to learn new (and eat tasty food)  
   💫 | Native Russian, C1 English, 3급 Korean  
   💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`   
   ✨ | Future successful CEO :0 
