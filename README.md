@@ -1,6 +1,5 @@
 # Good morning, good afternoon and good evening 😼
-
-**Long story short, I am**:  
+## **Long story short, I am**:  
   😇 | Viktoriia  
   ❤️‍🔥 | Full-time High School & Computer Academy student  
   😈 | ***Mastering***: C++, C#, C Sharp .NET Framework   
