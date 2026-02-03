@@ -15,6 +15,7 @@
 1. Exploring GitHub
 2. Working as an English Teacher (saving for grown-up life...👀)
 3. Building projects
+!. College & Forums Applications
 
 ### February's plan for GitHub:
 - [x] Design the profile README {03.02.26}
@@ -23,3 +24,11 @@
 - [ ] Upload my exam's console C++ projects: 0/4
 - [ ] Upload my exam's C# .NET Framework projects: 0/2
 - [ ] Upload my Qt projects: 0/1
+
+### **My revelant work experience**:
+---Summer's internships in IT-department at manufacturer:  
+----- + Integration into the work of the IT department  
+----- + Studying the internal processes and tasks  
+----- + Assistance in performing tasks for the IT department under the guidance of employees-mentors  
+----- + Analysing mistakes and working on their corrections  
+----- + Communicating with experienced mentors and receiving a feedback from them
