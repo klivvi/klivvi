@@ -14,8 +14,7 @@
 0. Acing all classes<br/>
 1. Exploring GitHub<br/>
 2. Working as an English Teacher (saving for grown-up life...👀)<br/>
-3. Building projects<br/>
-!. College & Forums Applications<br/>
+3. Building projects<br/>!. College & Forums Applications<br/>
 
 ### **February's plan for GitHub**:
 - [x] Design the profile README {03.02.26}
