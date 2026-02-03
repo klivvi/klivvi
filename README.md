@@ -42,6 +42,6 @@
   + Mediating conflicts between them
   + Conducting a final exams, assessments and open lessons
 ```
-I know I'm capable of everything and this is my guilty pleaser (and the only minor)  
-Don't doubt, just accept me (I promise I'm cool) (please)
+##Pro+gram+mer:</br>
+(n.) Someone who solves a problem you didn't know you had in a way you don't understand
 ```
