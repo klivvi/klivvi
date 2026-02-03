@@ -1,7 +1,7 @@
 # <span style ="color: #C670FF;">Good morning, good afternoon and good evening 😼 </span>
 ### **Long story short, I am**:  
   😇 | Viktoriia  
-  ❤️‍🔥 | Full-time High School & Computer Academy student  
+  ❤️‍🔥 | Full-time <ins>High School & Computer Academy</ins> student  
   😈 | ***Mastering***: C++, C#, C Sharp .NET Framework   
   👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python   
   😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Aurdino)  
@@ -40,6 +40,7 @@
   + Reporting on children's progress and behaviour
   + Mediating conflicts between them
   + Conducting a final exams, assessments and open lessons
-
-I know I'm capable of everything and this is my guilty pleaser (and the only minor)
+```
+I know I'm capable of everything and this is my guilty pleaser (and the only minor)  
 Don't doubt, just accept me (I promise I'm cool) (please)
+```
