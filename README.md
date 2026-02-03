@@ -17,7 +17,7 @@
 3. Building projects
 !. College & Forums Applications
 
-### February's plan for GitHub:
+### **February's plan for GitHub**:
 - [x] Design the profile README {03.02.26}
 - [ ] Upload 'The Personal Website' repository
 - [ ] Make my personal website publical
@@ -27,19 +27,19 @@
 
 ### **My revelant work experience**:
 1) 23/24 Summer's internships in IT-department at manufacturer:
-     + Integration into the work of the IT department
-     + Studying the internal processes and tasks
-     + Assistance in performing tasks for the IT department under the guidance of employees-mentors
-     + Analysing mistakes and working on their corrections
-     + Communicating with experienced mentors and receiving a feedback from them
-     + Learning Documentation
+  + Integration into the work of the IT department
+  + Studying the internal processes and tasks
+  + Assistance in performing tasks for the IT department under the guidance of employees-mentors
+  + Analysing mistakes and working on their corrections
+  + Communicating with experienced mentors and receiving a feedback from them
+  + Learning Documentation
 2) April 24 - June 25, Computer Academy's Programming Teacher:
-     + Teaching groups from 4 to 20 children in age from 7 to 14 y.o.
-     + Preparing and delivering lessons from 1h 20m to 4h on different topics (Algorithms, Scratch, Paint.NET, AI, 2Adobe Photoshop & Illustrator, Video Editing, 2D & 3D design, etc)
-     + Maintaining kid's motivation to learn
-     + Reporting on children's progress and behaviour
-     + Mediating conflicts between them
-     + Conducting a final exams, assessments and open lessons
+  + Teaching groups from 4 to 20 children in age from 7 to 14 y.o.
+  + Preparing and delivering lessons from 1h 20m to 4h on different topics (Algorithms, Scratch, Paint.NET, AI, 2Adobe Photoshop & Illustrator, Video Editing, 2D & 3D design, etc)
+  + Maintaining kid's motivation to learn
+  + Reporting on children's progress and behaviour
+  + Mediating conflicts between them
+  + Conducting a final exams, assessments and open lessons
 
-### I know I'm capable of everything and this is my guilty pleaser (and the only minor)
+I know I'm capable of everything and this is my guilty pleaser (and the only minor)
 Don't doubt, just accept me (I promise I'm cool) (please)
