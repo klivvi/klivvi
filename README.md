@@ -15,7 +15,7 @@
 1. Exploring GitHub
 2. Working as an English Teacher (saving for grown-up life...👀)
 3. Building projects
-!. College & Forums Applications
+4. !. College & Forums Applications
 
 ### **February's plan for GitHub**:
 - [x] Design the profile README {03.02.26}
