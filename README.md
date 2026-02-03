@@ -1,21 +1,21 @@
-# <span style ="color: #C670FF;">Good morning, good afternoon and good evening 😼 </span>
+# Good morning, good afternoon and good evening 😼
 ### **Long story short, I am**:  
-  😇 | Viktoriia  
-  ❤️‍🔥 | Full-time <ins>High School & Computer Academy</ins> student  
-  😈 | ***Mastering***: C++, C#, C Sharp .NET Framework   
-  👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python   
-  😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Aurdino)  
-  🧠 | Love to learn new (and eat tasty food)  
-  💫 | Native Russian, C1 English, 3급 Korean  
-  💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`   
-  ✨ | Future successful CEO :0 
+  😇 | Viktoriia<br/>
+  ❤️‍🔥 | Full-time <ins>High School & Computer Academy</ins> student<br/>
+  😈 | ***Mastering***: C++, C#, C Sharp .NET Framework<br/>
+  👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python<br/>
+  😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Aurdino)<br/>
+  🧠 | Love to learn new (and eat tasty food)<br/>
+  💫 | Native Russian, C1 English, 3급 Korean<br/>
+  💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`<br/>
+  ✨ | Future successful CEO :0<br/>
 
 ### **Right now, I am busy with**:  
-0. Acing all classes
-1. Exploring GitHub
-2. Working as an English Teacher (saving for grown-up life...👀)
-3. Building projects
-!. College & Forums Applications
+0. Acing all classes<br/>
+1. Exploring GitHub<br/>
+2. Working as an English Teacher (saving for grown-up life...👀)<br/>
+3. Building projects<br/>
+!. College & Forums Applications<br/>
 
 ### **February's plan for GitHub**:
 - [x] Design the profile README {03.02.26}
