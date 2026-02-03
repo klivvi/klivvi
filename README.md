@@ -26,6 +26,12 @@
 - [ ] Upload my exam's C# .NET Framework projects: 0/2
 - [ ] Upload my Qt projects: 0/1
 
+```
+debugging:
+[de-buhg-ging] - verb.
+1. being the detective in a crime movie where you are also the murderer.
+```
+
 ### **My revelant work experience**:
 1) 23/24 Summer's internships in IT-department at manufacturer:
   + Integration into the work of the IT department
@@ -41,7 +47,4 @@
   + Reporting on children's progress and behaviour
   + Mediating conflicts between them
   + Conducting a final exams, assessments and open lessons
-```
-##Pro+gram+mer:</br>
-(n.) Someone who solves a problem you didn't know you had in a way you don't understand
-```
+
