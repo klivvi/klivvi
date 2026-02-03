@@ -10,7 +10,7 @@
   💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`<br/>
   ✨ | Future successful CEO :0<br/>
 
-![In love with work](patrick-star-love-you.gif | width=50%)
+![In love with work](patrick-star-love-you.gif)
 
 ### **Right now, I am busy with**:  
 0. Acing all classes<br/>
