@@ -21,10 +21,10 @@
 
 ### **February's plan for GitHub**:
 - [x] Design the profile README {03.02.26}
-- [ ] Upload 'The Personal Website' repository
-- [ ] Make my personal website publical
-- [ ] Upload my exam's console C++ projects: 0/4
-- [ ] Upload my exam's C# .NET Framework projects: 0/2
+- [x] Upload 'The Personal Website' repository
+- [x] Make my personal website publical
+- [ ] Upload my exam's console C++ project
+- [ ] Upload my exam's C# .NET Framework projects: 0/3
 - [ ] Upload my Qt projects: 0/1
 
 ### **A little joke**:
