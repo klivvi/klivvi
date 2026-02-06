@@ -7,7 +7,9 @@
   😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Arduino)<br/>
   💫 | Native Russian, C1 English, 3급 Korean<br/>
   💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`<br/>
-  ✨ | Future successful CEO :o<br/>
+  ✨ | Future successful CEO :o<br/>  
+
+  My Website -> https://klivvi.github.io/
 
 ![In love with work](patrick-star-love-you.gif)
 
