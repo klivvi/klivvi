@@ -20,9 +20,9 @@
 3. College & Forums Applications<br/>
 
 ### **February's plan for GitHub**:
-- [x] Design the profile README                         {26-02-03}
-- [x] Upload 'The Personal Website' repository          {26-02-05}
-- [x] Make my personal website publical                 {26-02-05}
+- [x] {26-02-03} Design the profile README 
+- [x] {26-02-05} Upload 'The Personal Website' repository 
+- [x] {26-02-05} Make my personal website publical 
 - [ ] Upload my exam's console C++ project
 - [ ] Upload my exam's C# .NET Framework projects: 0/3
 - [ ] Upload my Qt projects: 0/1
