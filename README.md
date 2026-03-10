@@ -22,10 +22,10 @@
 ### **February's plan for GitHub**:
 - [x] {26-02-03} Design the profile README 
 - [x] {26-02-05} Upload 'The Personal Website' repository 
-- [x] {26-02-05} Make my personal website publical 
-- [ ] Upload my exam's console C++ project
-- [ ] Upload my exam's C# .NET Framework projects: 0/3
-- [ ] Upload my Qt projects: 0/1
+- [x] {26-02-05} Make personal website publical 
+- [x] {26-03-10} Upload console C++ project
+- [ ] Upload C# .NET Framework projects
+- [ ] Upload Qt projects
 
 ### **A little joke**:
 ```
