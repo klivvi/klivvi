@@ -27,6 +27,8 @@
 - [ ] Upload C# .NET Framework projects
 - [ ] Upload Qt projects
 
+Currently: finalizing 'Simple Downloader' and 'Messenger' C# .Net Framework projects, mastering JavaScript 
+
 ### **A little joke**:
 ```
 debugging:
