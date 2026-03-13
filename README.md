@@ -17,7 +17,7 @@
 0. Acing all classes<br/>
 1. Exploring GitHub
 2. Building projects
-3. College & Forums Applications<br/>
+3. Working as a tutor<br/>
 
 ### **February's plan for GitHub**:
 - [x] {26-02-03} Design the profile README 
