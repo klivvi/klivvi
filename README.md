@@ -2,11 +2,11 @@
 ### **Long story short, I am**:  
   😇 | Viktoriia<br/>
   ❤️‍🔥 | Full-time <ins>High School & Computer Academy</ins> student<br/>
-  😈 | ***Mastering***: C++, C#, C Sharp .NET Framework<br/>
+  😈 | ***Mastering***: C++, C# .NET Framework<br/>
   👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python<br/>
   😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Arduino)<br/>
   💫 | Native Russian, C1 English, 3급 Korean<br/>
-  💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `Quantum Computing`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`<br/>
+  💟 | Interested in: `SDG 4 - Digital Transformaion`, `Programming`, `LLM, ML, AI, Data Science`, `Computational Linguistics`, `Entrepreneurship`, `Happy Life`, `Theoretical Physics`, `And Other...`<br/>
   ✨ | Future successful CEO :o<br/>  
 
   My Website -> https://klivvi.github.io/
@@ -19,15 +19,8 @@
 2. Building projects
 3. Working as a tutor<br/>
 
-### **February's plan for GitHub**:
-- [x] {26-02-03} Design the profile README 
-- [x] {26-02-05} Upload 'The Personal Website' repository 
-- [x] {26-02-05} Make personal website publical 
-- [x] {26-03-10} Upload console C++ project
-- [ ] Upload C# .NET Framework projects
-- [ ] Upload Qt projects
-
-Currently: finalizing 'Simple Downloader' and 'Messenger' C# .Net Framework projects, mastering JavaScript 
+### **April's plan for GitHub**:
+- [ ] Upload some fo exam's projects (C# WinForms, C++, JavaScript)
 
 ### **A little joke**:
 ```
