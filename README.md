@@ -1,7 +1,7 @@
 # Good morning, good afternoon and good evening 😼
 ### **Long story short, I am**:  
   😇 | Viktoriia<br/>
-  ❤️‍🔥 | Full-time <ins>High School & Computer Academy</ins> student<br/>
+  ❤️‍🔥 | ITMO Student
   😈 | ***Mastering***: C++, C# .NET Framework<br/>
   👽 | ***Learning***: Qt, HTML + CSS + JavaScript, Python<br/>
   😻 | ***On top of that***: SQL, QML, Design Patterns (GoF), Robotics (Arduino)<br/>
@@ -14,13 +14,7 @@
 ![In love with work](patrick-star-love-you.gif)
 
 ### **Right now, I am busy with**:  
-0. Acing all classes<br/>
-1. Exploring GitHub
-2. Building projects
-3. Working as a tutor<br/>
-
-### **April's plan for GitHub**:
-- [ ] Upload some fo exam's projects (C# WinForms, C++, JavaScript)
+1. Getting my degree
 
 ### **A little joke**:
 ```
